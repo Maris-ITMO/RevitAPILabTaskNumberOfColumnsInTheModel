@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPILabTaskNumberOfColumnsInTheModel.dll"</Assembly>
+		<AddInId>51E5213F-EF8C-43C6-8F50-C9578C6B836D</AddInId>
+		<FullClassName>RevitAPILabTaskNumberOfColumnsInTheModel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для количество колонн в модели</Text>
+	</AddIn>
+</RevitAddIns>
